@@ -1,3 +1,15 @@
+# Namaskar, I'm Om! 👋
+
+--
+
+Fullstack developer proficient in MERN stack, Go, Prostgress, Vuejs | DSA Aficionado 
+---
+I'm a ardent Fullstack developer who loves to make professional and pastime passion projects within the domain of Web development.
+My main goal throughout my WebDev journey is to learn and have fun along the way. On my GitHub you can find pretty much all of my projects.
+
+Janhit, SarvAI, Cure-Connect and Fit-Fusion X are some of my noteworthy and top pinned professional projects.
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-shukla-465850263/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omshukla2403@gmail.com) 
