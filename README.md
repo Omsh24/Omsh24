@@ -1,14 +1,21 @@
-# Namaskar, I'm Om! 👋
+# Namaskar, I'm Om 👋
 
---
+Full-stack developer working with **MERN**, **Go**, **PostgreSQL**, and **Vue.js**.  
+Strong interest in **Data Structures & Algorithms** and building backend systems.
 
-Fullstack developer proficient in MERN stack, Go, Prostgress, Vuejs | DSA Aficionado 
 ---
-I'm a ardent Fullstack developer who loves to make professional and pastime passion projects within the domain of Web development.
-My main goal throughout my WebDev journey is to learn and have fun along the way. On my GitHub you can find pretty much all of my projects.
 
-Janhit, SarvAI, Cure-Connect and Fit-Fusion X are some of my noteworthy and top pinned professional projects.
+I’m a full-stack developer who enjoys building both professional products and passion projects in web development. I focus on writing clean, maintainable code and understanding systems end to end from basics of UI to the complexity of databases and APIs.
 
+My goal is simply **learn thoroughly**, **improve** and to have **fun** along the way.
+
+Some of my notable projects include **Janhit**, **ServAI**, **Cure-Connect**, and **Fit-Fusion X** — all of which are pinned below.
+## 🚀 Featured Projects
+
+- 🔗 **[Janhit](https://github.com/Omsh24/Janhit-main)** – Civic engagement and Public issue raising platform for citizens.
+- 🔗 **[ServAI](https://github.com/Omsh24/ServAI)**  – AI-powered SaaS assistance system for every AI need in one place.
+- 🔗 **[Cure-Connect](https://github.com/Omsh24/CureConnect-A-medical-appointment-website)** – Patient medical-care and appointment building plateform.
+- 🔗 **[Fit-Fusion X](https://github.com/Omsh24/Advance-Ecommerce-with-Virtual-Tryon-feature)** - E-commerce website with Virtual tryon online.
 
 
 ## 🌐 Socials:
