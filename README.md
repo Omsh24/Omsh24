@@ -1,4 +1,4 @@
-# Namaskar, I'm Om 👋
+# Hello, I'm Om 👋
 
 Full-stack developer working with **MERN**, **Go**, **PostgreSQL**, and **Vue.js**.  
 Strong interest in **Data Structures & Algorithms** and building backend systems.
